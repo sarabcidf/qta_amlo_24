@@ -8,6 +8,7 @@
 \usepackage{float}
 \usepackage{caption}
 \usepackage{setspace}
+\usepackage{hyperref}
 
 \title{Measuring Populism Empirically: Sentiment and Language in AMLO's Morning Conferences}
 \author{Sara Cid \\  Applied Social Data Science \\  Quantitative Text Analysis}
@@ -18,7 +19,7 @@
 
 \begin{abstract}
 	
-	This study uses quantitative text analysis and dictionary methods to evaluate how Mexico's President Andrés Manuel López Obrador (AMLO) uses his morning press conferences to spread his populist message. It analyzes transcriptions from over 1300 press conferences from AMLO's start in office on December 1, 2018, to February 25, 2024. Applying a populist dictionary and performing targeted sentiment analysis on AMLO's speeches shows that he exhibits a people-centric but not so much anti-elitist language. Moreover, this paper presents novel statistics about AMLO's conferences and the evolution of his language over time.
+	This study uses quantitative text analysis and dictionary methods to evaluate how Mexico's President Andrés Manuel López Obrador (AMLO) uses his morning press conferences to spread his populist message. It analyzes transcriptions from over 1300 press conferences from AMLO's start in office on December 1, 2018, to February 25, 2024. Applying a populist dictionary and performing targeted sentiment analysis on AMLO's speeches shows that he exhibits a people-centric but not so much anti-elitist language. Moreover, this paper presents novel statistics about AMLO's conferences and the evolution of his language over time\footnote{All the necessary replication files and instructions can be found under the following repository \url{https://github.com/sarabcidf/qta_amlo_24}}.
 
 \end{abstract}
 
@@ -223,6 +224,8 @@ Finally, Figures 10 and 11 below show the results of analyzing AMLO's readabilit
 
 As for lexical diversity, AMLO scores around 0.85, which suggests a high variety of vocabulary. There is also a slightly declining trend overtime that suggests a repetition of language or a narrowing of vocabulary. This result is also the contrary as it would be expected: AMLO should probably express himself with a simpler vocabulary, following the hypothesis about populist language. However, according to this measure, AMLO seems to be far from lacking lexical diversity. Unlike with readability, this could be possible, as AMLO's vocabulary could be both simple and diverse at the same time, which is a relevant finding. 
 
+\newpage
+\vspace*{\fill}
 \begin{figure}[H]
 	\centering
 	\caption{\label{}}
@@ -234,5 +237,7 @@ As for lexical diversity, AMLO scores around 0.85, which suggests a high variety
 	\caption{\label{}}
 	\includegraphics[width=\textwidth]{/Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/ldiversity.png}
 \end{figure}
+
+\vspace*{\fill}
 
 \end{document}
