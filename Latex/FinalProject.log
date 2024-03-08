@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.10)  8 MAR 2024 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.10)  8 MAR 2024 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,13 +403,13 @@ Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
 is/poplangtimecount.png  used on input line 112.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
  [7 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/poplangtimecount.
-png>] (./FinalProject.bbl
+png>] (./FinalProject.bbl [8]
 Underfull \hbox (badness 1048) in paragraph at lines 47--53
 \OT1/cmr/m/it/10 The British Jour-nal of So-ci-ol-ogy\OT1/cmr/m/n/10 , 68(S1):S
 153--S180, 2017.  []eprint:
  []
 
-[8]
+
 Underfull \hbox (badness 2111) in paragraph at lines 73--79
 \OT1/cmr/m/n/10 par-ing Two Meth-ods of Con-tent Anal-y-sis.  \OT1/cmr/m/it/10 
 West Eu-ro-pean Pol-i-
@@ -422,7 +422,7 @@ File: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/words_time.png G
 raphic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/words_time.png>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/words_time.png  used on input line 139.
+is/words_time.png  used on input line 141.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/conf_freq_time.png, i
 d=150, 578.16pt x 289.08pt>
@@ -431,7 +431,7 @@ ng Graphic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/conf_freq_time.pn
 g>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/conf_freq_time.png  used on input line 145.
+is/conf_freq_time.png  used on input line 147.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
  [10 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/words_time.png> 
 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/conf_freq_time.png>]
@@ -442,7 +442,7 @@ ng Graphic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/var_words_time.pn
 g>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/var_words_time.png  used on input line 156.
+is/var_words_time.png  used on input line 158.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/TopWords.png, id=160,
  578.16pt x 289.08pt>
@@ -450,7 +450,7 @@ File: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/TopWords.png Gra
 phic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/TopWords.png>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/TopWords.png  used on input line 162.
+is/TopWords.png  used on input line 164.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
  [11 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/var_words_time.p
 ng> </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/TopWords.png>]
@@ -460,40 +460,40 @@ File: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/senttime.png Gra
 phic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/senttime.png>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/senttime.png  used on input line 177.
+is/senttime.png  used on input line 179.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
 []|\OT1/cmr/m/n/9 Original (Roodujn &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 []|\OT1/cmr/m/n/9 undemocratic / an-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 []|\OT1/cmr/m/n/9 traici^^Son / traicionar /
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 204--204
+Underfull \hbox (badness 3872) in paragraph at lines 206--206
 []|\OT1/cmr/bx/n/9 Additional terms
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []|\OT1/cmr/m/n/9 Additional people-centric
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 216--216
+Underfull \hbox (badness 3872) in paragraph at lines 218--218
 []|\OT1/cmr/bx/n/9 Additional terms
  []
 
 
-Overfull \hbox (5.58028pt too wide) in alignment at lines 186--218
+Overfull \hbox (5.58028pt too wide) in alignment at lines 188--220
  [] [] [] 
  []
 
@@ -505,7 +505,7 @@ File: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/readability.png
 Graphic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/readability.png>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/readability.png  used on input line 233.
+is/readability.png  used on input line 234.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/ldiversity.png, id=18
 3, 578.16pt x 289.08pt>
@@ -513,7 +513,7 @@ File: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/ldiversity.png G
 raphic file (type png)
 <use /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/ldiversity.png>
 Package pdftex.def Info: /Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analys
-is/ldiversity.png  used on input line 239.
+is/ldiversity.png  used on input line 240.
 (pdftex.def)             Requested size: 345.0pt x 172.49655pt.
  [14 </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/readability.png>
  </Users/sarabcidf/Desktop/ASDS/Dissertation/AMLO/Analysis/ldiversity.png>] (./
@@ -521,8 +521,14 @@ FinalProject.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `FinalProject.out' has not changed.
-(rerunfilecheck)             Checksum: 58466D52DBB1AADDD8DA0A8E4152E912;1072.
+
+Package rerunfilecheck Warning: File `FinalProject.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `FinalProject.out':
+(rerunfilecheck)             Before: 58466D52DBB1AADDD8DA0A8E4152E912;1072
+(rerunfilecheck)             After:  C2BA956B29A773CD6226B7CE823764DF;979.
  ) 
 Here is how much of TeX's memory you used:
  10039 strings out of 476025
@@ -531,20 +537,24 @@ Here is how much of TeX's memory you used:
  30313 multiletter control sequences out of 15000+600000
  517969 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,1269b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
-xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
-2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2
-023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on FinalProject.pdf (14 pages, 2330262 bytes).
+ 75i,8n,76p,1286b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{section.8} has been referenced but does not exist, 
+replaced by a fixed one
+
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
+23/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on FinalProject.pdf (14 pages, 2331928 bytes).
 PDF statistics:
  258 PDF objects out of 1000 (max. 8388607)
  194 compressed objects within 2 object streams
