@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: FinalProject.aux
+The style file: plain.bst
+Database file #1: PopulismBib.bib
+Warning--to sort, need author or key in noauthor_transcripciones_nodate
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            584 strings with 6589 characters,
+and the built_in function-call counts, 4109 in all, are:
+= -- 402
+> -- 173
+< -- 0
++ -- 71
+- -- 56
+* -- 290
+:= -- 694
+add.period$ -- 44
+call.type$ -- 14
+change.case$ -- 70
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 137
+empty$ -- 344
+format.name$ -- 56
+if$ -- 842
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 11
+newline$ -- 74
+num.names$ -- 26
+pop$ -- 70
+preamble$ -- 1
+purify$ -- 56
+quote$ -- 0
+skip$ -- 106
+stack$ -- 0
+substring$ -- 268
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 1
+while$ -- 38
+width$ -- 16
+write$ -- 152
+(There was 1 warning)
